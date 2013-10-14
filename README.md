@@ -1,6 +1,6 @@
 # WorkHouse
 
-TODO: Write a gem description
+An in-memory, periodical job handler daemon
 
 ## Installation
 
@@ -18,7 +18,7 @@ Or install it yourself as:
 
 ## Usage
 
-TODO: Write usage instructions here
+TODO: See specs for now...
 
 ## Contributing
 
